@@ -12,8 +12,12 @@ A chief data scientist for a city school is responsible for analyzing informatio
 ## Results:
 
  - How is the district summary affected?
- 
+  
+  After deleting the number of students who are from the 9th grade at Thomas high school, the average math score, the average reading score, the percentage of students who         passed math and the percentage of students who passed reading have been decreased by 0.1%. Also, the overall passing percentage has been decreased by 0.3% with the               recalculated total students.
+  
  - How is the school summary affected?
+ 
+   
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
