@@ -47,4 +47,9 @@ A chief data scientist for a city school is responsible for analyzing informatio
 
 ## Summary:
 
+   - The percentage of passing math will decrease about 26% if we don't remove 9th grade students at Thomas High School from the total number of students.
+   - The percentage of passing reading will decrease about 28% if we don't remove 9th grade students at Thomas High School from the total number of students.
+   - The overal percentage of passing both math and reading will decrease about 26% if we don't remove 9th grade students at Thomas High School from the total number of              students.
+   - 
+
 
