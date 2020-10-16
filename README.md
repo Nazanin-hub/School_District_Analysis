@@ -17,8 +17,10 @@ A chief data scientist for a city school is responsible for analyzing informatio
   
  - How is the school summary affected?
  
-   School summary just affected on the Thomas high school data. First, with considering 9th-grade students as NAN at Thomas high school, the percentage of passing math, reading,    and overall passing have been significantly decreased while the average. As the below table shows, the percentage of students who passed math decreased from 93.27% to 66.91%    the percentage of students who passed reading decreased from 97.31% to 69.66%, and the overall percentage of passing math and reading decreased from 90.95% to 65.08%. While      the average math and reading scores changed from 83.42% to 83.35% and 83.85% to 83.90%.
+   School summary just affected on the Thomas high school data. First, with considering 9th-grade students as NAN at Thomas high school, the percentage of passing math, reading,    and overall passing significantly decreased. As the below table shows, the percentage of students who passed math decreased from 93.27% to 66.91%. The percentage of students    who passed reading decreased from 97.31% to 69.66%, and the overall percentage of passing math and reading decreased from 90.95% to 65.08%. While the average math and reading    scores changed from 83.42% to 83.35% and 83.85% to 83.90%.
    
+   
+  Second, I calculated the percentage of 10th-12th grade students who passed math, reading, and the overall passing percentage. Then, I replaced these new results with previous data at Thomas high school. Based on the below table, the percentage of passing math, reading, and the overall passing percentage increased to 93.19%, 97.14%, and 90.63%          respectively. Average math and reading scores didn't change.
    
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
