@@ -25,11 +25,17 @@ A chief data scientist for a city school is responsible for analyzing informatio
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
+   The performance of Thomas High School has not changed. It is still at the second top-performing schools.
+ 
  - How does replacing the ninth-grade scores affect the following:
  
     - Math and reading scores by grade
+      
+      Thomas High School's 9th grade class has no math or reading score data to count. Everything else was unaffected
     
     - Scores by school spending
+    
+      The spending ranges between $630-644 has chenged since Thomas High School is in this range. The avarage math score decreased 
     
     - Scores by school size
     
