@@ -20,6 +20,7 @@ A chief data scientist for a city school is responsible for analyzing informatio
    ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/Pic.1.png)
    
    Second, I calculated the percentage of 10th-12th grade students who passed math, reading, and the overall passing percentage. Then, I replaced these new results with previous    data at Thomas high school. Based on the below table, the percentage of passing math, reading, and the overall passing percentage increased to 93.19%, 97.14%, and 90.63%        respectively. Average math and reading scores didn't change.
+   ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/pic.2.png)
    
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
