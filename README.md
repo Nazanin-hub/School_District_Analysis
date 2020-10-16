@@ -17,6 +17,8 @@ A chief data scientist for a city school is responsible for analyzing informatio
   
  - How is the school summary affected?
  
+    Just the Thomas high school data changed. First, with considering 9th grade students as NAN at Thomas high school, the percentage of passing math, reading and overall          passing have been significantly decreased while the average. As the below table shows, the percentage of students 
+   
    
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
