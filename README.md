@@ -10,7 +10,6 @@ A chief data scientist for a city school is responsible for analyzing informatio
  - Software: Python 3.8.3, Jupyter Notebook 6.0.3
 
 ## Results:
-
  - How is the district summary affected?
   
    After deleting the number of students who are from the 9th grade at Thomas high school, the average math score, the average reading score, the percentage of students who         passed math and the percentage of students who passed reading have been decreased by 0.1%. Also, the overall passing percentage has been decreased by 0.3% with the               recalculated total students.
@@ -35,11 +34,17 @@ A chief data scientist for a city school is responsible for analyzing informatio
     
     - Scores by school spending
     
-      The spending ranges between $630-644 has chenged since Thomas High School is in this range. The avarage math score decreased 
-    
+      Just the spending ranges between $630-644 has marginally changed since Thomas High School is in this range. The average math score for spending range between $630-644           decreased from 78.52% to 78.50%, the average reading score increased from 81.62% to 81.64%. The percentage of students who passed math in range $630-644 decreased from           73.48% to 73.46%, the percentage of students who passed the reading decreased from 84.39% to 84.32%, and the overall percentage of passing math and reading decreased from       62.86% to 62.79%.    
+
+      
     - Scores by school size
+    
+      Just the medium schools size has slightly changed since Thomas High School is in this size. The average math score for medium size schools decreased from 83.37% to 83.36%,       the average reading score increased from 83.86% to 83.87%. The percentage of students who passed math in medium size schools decreased from 93.60% to 93.58%,the percentage       of students who passed the reading decreased from 96.79% to 96.73%, and the overall percentage of passing math and reading decreased from 90.62% to 90.56%.    
     
     - Scores by school type
     
+      Since Thomas High School is in chartar type, all the data in this type have been a bit changed. If we round the numbers, we can not see any diffrence between numbers             because the percentage of change is too small. Forexample, The average math score for chartar type schools decreased about 0.009%
 
 ## Summary:
+
+
