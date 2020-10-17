@@ -27,8 +27,8 @@ A chief data scientist for a city school is responsible for analyzing informatio
   
  - How is the school summary affected?
  
-  The only change in data is with Thomas High School. I Subtracted the number of students that are in ninth grade at Thomas High School from the total number of students to       get the new total student count who are in 10th-12th grades. Based on the below table, the percentage of passing math decreased from 93.27% to 93.19, the percentage of reading   decrease from 97.31% to 97.02%, and the overall passing percentage decreased from 90.95% to 90.63%. Average math and reading scores didn't change. So, this recalculation         didn't have any remarkable effect on the percentages of reading and math at Thomas High School. 
-  ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/pic.2.png) 
+   The only change in data is with Thomas High School. I Subtracted the number of students that are in ninth grade at Thomas High School from the total number of students to        get the new total student count who are in 10th-12th grades. Based on the below table, the percentage of passing math decreased from 93.27% to 93.19, the percentage of          reading   decrease from 97.31% to 97.02%, and the overall passing percentage decreased from 90.95% to 90.63%. Average math and reading scores didn't change. So, this            recalculation didn't have any remarkable effect on the percentages of reading and math at Thomas High School. 
+   ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/pic.2.png) 
    
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -44,22 +44,22 @@ A chief data scientist for a city school is responsible for analyzing informatio
     
     - Scores by school spending
     
-      Just the spending ranges between $630-644 has marginally changed since Thomas High School is in this range. The average math score for spending range between $630-644           decreased from 78.52% to 78.50%, the average reading score increased from 81.62% to 81.64%. The percentage of students who passed math in range $630-644 decreased from           73.48% to 73.46%, the percentage of students who passed the reading decreased from 84.39% to 84.32%, and the overall percentage of passing math and reading decreased from       62.86% to 62.79%.    
+      Based on the below table, just the spending ranges between $630-644 has marginally changed and the remaining data remained intact. The average math score for spending           range between $630-644 decreased from 78.52% to 78.50%, the average reading score increased from 81.62% to 81.64%. The percentage of students who passed math in range           $630-644 decreased from 73.48% to 73.46%, the percentage of students who passed the reading decreased from 84.39% to 84.32%, and the overall percentage of passing math and       reading decreased from 62.86% to 62.79%. so, the rate of changes is negligible.   
 
       
     - Scores by school size
     
-      Just the medium schools size has slightly changed since Thomas High School is in this size. The average math score for medium size schools decreased from 83.37% to 83.36%,       the average reading score increased from 83.86% to 83.87%. The percentage of students who passed math in medium size schools decreased from 93.60% to 93.58%,the percentage       of students who passed the reading decreased from 96.79% to 96.73%, and the overall percentage of passing math and reading decreased from 90.62% to 90.56%.    
+      Based on the below table, just the medium schools size has slightly changed. The average math score for medium size schools decreased from 83.37% to 83.36%, the average         reading score increased from 83.86% to 83.87%. The percentage of students who passed math in medium size schools decreased from 93.60% to 93.58%, the percentage of               students who passed the reading decreased from 96.79% to 96.73%, and the overall percentage of passing math and reading decreased from 90.62% to 90.56%.    
     
     - Scores by school type
     
-      Since Thomas High School is in chartar type, all the data in this type have been a bit changed. If we round the numbers, we can not see any diffrence between numbers             because the percentage of change is too small. Forexample, The average math score for chartar type schools decreased about 0.009%
+      Based on the below table, since Thomas High School is in chartar type, all the data in this type have been a bit changed. If we round the numbers, we can not see any             diffrence between numbers because the percentage of change is too small. Forexample, The average math score for chartar type schools decreased about 0.009%
 
 ## Summary:
 
-   - The percentage of passing math will decrease significantly about 26% if we don't remove 9th grade students at Thomas High School from the total number of students.
-   - The percentage of passing reading will decrease significantly about 28% if we don't remove 9th grade students at Thomas High School from the total number of students.
-   - The overal percentage of passing both math and reading will decrease significantly about 26% if we don't remove 9th grade students at Thomas High School from the total           number of students.
+   - Charter schools performed better than district schools
    - 
+   - 
+   
 
 
