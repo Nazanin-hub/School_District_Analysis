@@ -23,26 +23,24 @@ A chief data scientist for a city school is responsible for analyzing informatio
 ## Results:
  - How is the district summary affected?
   
-   After deleting the number of students who are from the 9th grade at Thomas high school, the average math score, the average reading score, the percentage of students who         passed math and the percentage of students who passed reading have been decreased by 0.1%. Also, the overall passing percentage has been decreased by 0.3% with the               recalculated total students.
+    After deleting the number of students who are from the 9th grade at Thomas high school, the average math score, the average reading score, the percentage of students who         passed math and the percentage of students who passed reading have been decreased by 0.1%. Also, the overall passing percentage has been decreased by 0.3% with the               recalculated total students.
   
  - How is the school summary affected?
  
-  The only change in data is with Thomas High School. First, I considered the 9th-grade students as NAN at Thomas high school. The result showed the percentage of passing math,   reading, and overall passing significantly decreased. As the below table shows, the percentage of students who passed math decreased from 93.27% to 66.91%. The percentage of     students who passed reading decreased from 97.31% to 69.66%, and the overall percentage of passing math and reading decreased from 90.95% to 65.08%. While the average math and   reading scores changed from 83.42% to 83.35% and 83.85% to 83.90%.
-   ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/Pic.1.png)
-   
-   Second, I Subtracted the number of students that are in ninth grade at Thomas High School from the total number of students to get the new total student count who are in       10th-12th grades. Then, I replaced these new results with previous data at Thomas high school. Based on the below table, the percentage of passing math, reading, and the         overall passing percentage increased to 93.19%, 97.14%, and 90.63% respectively. Average math and reading scores didn't change.
-   ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/pic.2.png)
+  The only change in data is with Thomas High School. I Subtracted the number of students that are in ninth grade at Thomas High School from the total number of students to       get the new total student count who are in 10th-12th grades. Based on the below table, the percentage of passing math decreased from 93.27% to 93.19, the percentage of reading   decrease from 97.31% to 97.02%, and the overall passing percentage decreased from 90.95% to 90.63%. Average math and reading scores didn't change. So, this recalculation         didn't have any remarkable effect on the percentages of reading and math at Thomas High School. 
+  ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/pic.2.png) 
    
  
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
-   The performance of Thomas High School has not changed. It is still at the second top-performing schools.
- 
+   Based on the below table,the performance of Thomas High School has not changed. It is still at the second top-performing schools.
+   ![](
+   
  - How does replacing the ninth-grade scores affect the following:
  
     - Math and reading scores by grade
       
-      Thomas High School's 9th grade class has no math or reading score data to count. Everything else was unaffected
+     Based on the below table, replacing the 9th-grade doesn't have any effect on the average reading and math scores. The average math and reading scores for 9th grade at            thomas high School have been shown by "Nan" whereas the remaining data remained intact.
     
     - Scores by school spending
     
