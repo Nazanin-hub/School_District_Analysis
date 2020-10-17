@@ -11,14 +11,14 @@ A chief data scientist for a city school is responsible for analyzing informatio
  
  ## Challenge Overview
  
-  Since the school board had evidence of academic dishonesty specially specifically, reading and math 9th grades for Thomas High School. So, I replaced the math and reading         scores for Thomas High School with NaNs. Then, I recalculated the following data:
+  Since the school board had evidence of academic dishonesty specifically, reading and math 9th grades for Thomas High School. So, I replaced the math and reading scores for       Thomas High School with NaNs. Then, I recalculated the following data:
     
-   - Recreate the district and school summary DataFrames.
-   - Recalculate the top 5 and bottom 5 performing schools, based on the overall passing rate.
-   - Recalculate the average math and reading scores received by students in each grade at each school
-   - Recalculate the school performance based on the spending per student.
-   - Recalculate the school performance based on the size of the school.
-   - Recalculate the school performance based on the type of school.
+   - The district and school summary DataFrames.
+   - The top 5 and bottom 5 performing schools, based on the overall passing rate.
+   - The average math and reading scores received by students in each grade at each school
+   - The school performance based on the spending per student.
+   - The school performance based on the size of the school.
+   - The school performance based on the type of school.
       
 ## Results:
  - How is the district summary affected?
@@ -27,10 +27,10 @@ A chief data scientist for a city school is responsible for analyzing informatio
   
  - How is the school summary affected?
  
-   School summary just affected on the Thomas high school data. First, with considering 9th-grade students as NAN at Thomas high school, the percentage of passing math, reading,    and overall passing significantly decreased. As the below table shows, the percentage of students who passed math decreased from 93.27% to 66.91%. The percentage of students    who passed reading decreased from 97.31% to 69.66%, and the overall percentage of passing math and reading decreased from 90.95% to 65.08%. While the average math and reading    scores changed from 83.42% to 83.35% and 83.85% to 83.90%.
+  The only change in data is with Thomas High School. First, I considered the 9th-grade students as NAN at Thomas high school. The result showed the percentage of passing math,   reading, and overall passing significantly decreased. As the below table shows, the percentage of students who passed math decreased from 93.27% to 66.91%. The percentage of     students who passed reading decreased from 97.31% to 69.66%, and the overall percentage of passing math and reading decreased from 90.95% to 65.08%. While the average math and   reading scores changed from 83.42% to 83.35% and 83.85% to 83.90%.
    ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/Pic.1.png)
    
-   Second, I calculated the percentage of 10th-12th grade students who passed math, reading, and the overall passing percentage. Then, I replaced these new results with previous    data at Thomas high school. Based on the below table, the percentage of passing math, reading, and the overall passing percentage increased to 93.19%, 97.14%, and 90.63%        respectively. Average math and reading scores didn't change.
+   Second, I Subtracted the number of students that are in ninth grade at Thomas High School from the total number of students to get the new total student count who are in       10th-12th grades. Then, I replaced these new results with previous data at Thomas high school. Based on the below table, the percentage of passing math, reading, and the         overall passing percentage increased to 93.19%, 97.14%, and 90.63% respectively. Average math and reading scores didn't change.
    ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/pic.2.png)
    
  
