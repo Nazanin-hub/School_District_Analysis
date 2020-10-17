@@ -11,7 +11,7 @@ A chief data scientist for a city school is responsible for analyzing informatio
  
  ## Challenge Overview
  
-  Since the school board has evidence of academic dishonesty specially specifically, reading and math 9th grades for Thomas High School. So,I replaced the math and reading         scores for Thomas High School with NaNs. Then, I recalculated the following data:
+  Since the school board had evidence of academic dishonesty specially specifically, reading and math 9th grades for Thomas High School. So, I replaced the math and reading         scores for Thomas High School with NaNs. Then, I recalculated the following data:
     
    - Recreate the district and school summary DataFrames.
    - Recalculate the top 5 and bottom 5 performing schools, based on the overall passing rate.
