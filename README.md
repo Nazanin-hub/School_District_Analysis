@@ -49,19 +49,19 @@ A chief data scientist for a city school is responsible for analyzing informatio
      
     - Scores by school spending
     
-      Based on the below table, just the spending ranges between $630-644 has marginally changed and the remaining data remained intact. The average math score for spending           range between $630-644 decreased from 78.52% to 78.50%, the average reading score increased from 81.62% to 81.64%. The percentage of students who passed math in range           $630-644 decreased from 73.48% to 73.46%, the percentage of students who passed the reading decreased from 84.39% to 84.32%, and the overall percentage of passing math and       reading decreased from 62.86% to 62.79%. Since these changes are less than 0.2%, the replacing 9th grade scores didn't affected the math and reading scores. 
+      Based on the below table, just the spending ranges between $630-644 has marginally changed and the remaining data remained intact. The average math score for spending           range between $630-644 decreased from 78.52% to 78.50%, the average reading score increased from 81.62% to 81.64%. The percentage of students who passed math in range of         $630-644 decreased from 73.48% to 73.46%, the percentage of students who passed the reading decreased from 84.39% to 84.32%, and the overall percentage of passing math and       reading decreased from 62.86% to 62.79%. Since these changes are less than 0.2%, the replacing 9th-grade scores didn't affect the math and reading scores. 
       
       ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/spending%20ranges-.png) 
       
     - Scores by school size
     
-      Based on the below table, just the medium schools size has slightly changed. The average math score for medium size schools decreased from 83.37% to 83.36%, the average         reading score increased from 83.86% to 83.87%. The percentage of students who passed math in medium size schools decreased from 93.60% to 93.58%, the percentage of               students who passed the reading decreased from 96.79% to 96.73%, and the overall percentage of passing math and reading decreased from 90.62% to 90.56%. Since these             fluctuation are less than 0.1%, the replacing 9th grade scores didn't affected the math and reading scores.
+      Based on the below table, just the medium school size has slightly changed. The average math score for medium-size schools decreased from 83.37% to 83.36%, the average           reading score increased from 83.86% to 83.87%. The percentage of students who passed math in medium-size schools decreased from 93.60% to 93.58%, the percentage of               students who passed the reading decreased from 96.79% to 96.73%, and the overall percentage of passing math and reading decreased from 90.62% to 90.56%. Since these             fluctuations are less than 0.1%, the replacing 9th-grade scores didn't affect the math and reading scores.
       
       ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/school%20size-.png)
       
     - Scores by school type
     
-      Based on the below table, just charter school has a bit changed. Forexample, The average math score for chartar type schools decreased about 0.009%.This is due to the fact       that the Thomas High School comes in the category of charter schools.
+      Based on the below table, just charter school has a bit changed. For example, The average math score for charter type schools decreased by about 0.009%. This is due to the       fact that Thomas High School comes in the category of charter schools.
       
       ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/school%20type.png)
       
