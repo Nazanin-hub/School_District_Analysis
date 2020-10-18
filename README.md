@@ -34,14 +34,14 @@ A chief data scientist for a city school is responsible for analyzing informatio
  - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  
    Based on the below table,the performance of Thomas High School has not changed. It is still at the second top-performing schools.
-   ![](
+   ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/performance.png)
    
  - How does replacing the ninth-grade scores affect the following:
  
     - Math and reading scores by grade
       
      Based on the below table, replacing the 9th-grade doesn't have any effect on the average reading and math scores. The average math and reading scores for 9th grade at            thomas high School have been shown by "Nan" whereas the remaining data remained intact.
-    
+     ![]()
     - Scores by school spending
     
       Based on the below table, just the spending ranges between $630-644 has marginally changed and the remaining data remained intact. The average math score for spending           range between $630-644 decreased from 78.52% to 78.50%, the average reading score increased from 81.62% to 81.64%. The percentage of students who passed math in range           $630-644 decreased from 73.48% to 73.46%, the percentage of students who passed the reading decreased from 84.39% to 84.32%, and the overall percentage of passing math and       reading decreased from 62.86% to 62.79%. so, the rate of changes is negligible.   
