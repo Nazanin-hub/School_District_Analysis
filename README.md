@@ -42,10 +42,10 @@ A chief data scientist for a city school is responsible for analyzing informatio
  
     - Math and reading scores by grade
       
-     Based on the below tables, replacing the 9th-grade doesn't have any effect on the average reading and math scores. The average math and reading scores for 9th grade at          Thomas High School have been shown by "Nan" whereas the remaining data remained intact.
+      Based on the below tables, replacing the 9th-grade doesn't have any effect on the average reading and math scores. The average math and reading scores for 9th grade at           Thomas High School have been shown by "Nan" whereas the remaining data remained intact.
      
-     ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/math-grade.png) 
-     ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/reading-grade.png)
+      ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/math-grade.png) 
+      ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/reading-grade.png)
      
     - Scores by school spending
     
@@ -67,9 +67,11 @@ A chief data scientist for a city school is responsible for analyzing informatio
       
 ## Summary:
 
-   - Charter schools performed better than district schools
-   - 
-   - 
+   - Thomas High School is still at the second top-performing schools.
+   - Charter schools perform better than district schools.
+   - Smaller schools--measured by total students, total budget--have better math and reading test scores than larger schools.
+   - The charter schools are all smaller than district schools.
+   
    
 
 
