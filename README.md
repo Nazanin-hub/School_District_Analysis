@@ -61,7 +61,7 @@ A chief data scientist for a city school is responsible for analyzing informatio
       
     - Scores by school type
     
-      Based on the below table, just charter type schools have been a bit changed. Forexample, The average math score for chartar type schools decreased about 0.009%.
+      Based on the below table, just charter school has a bit changed. Forexample, The average math score for chartar type schools decreased about 0.009%.This is due to the fact       that the Thomas High School comes in the category of charter schools.
       
       ![](https://github.com/Nazanin-hub/School_District_Analysis/blob/main/school%20type.png)
       
